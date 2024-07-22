@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/735336610594310444/707dc17d274a4f40a3ca235eaa1040f0/artifacts
+deleted_time: 1721606636971
+end_time: 1721606627586
+entry_point_name: ''
+experiment_id: '735336610594310444'
+lifecycle_stage: deleted
+run_id: 707dc17d274a4f40a3ca235eaa1040f0
+run_name: RandomForest_with_Class_Weight
+run_uuid: 707dc17d274a4f40a3ca235eaa1040f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721606143366
+status: 4
+tags: []
+user_id: Emman

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/735336610594310444/d53b12e1ecde4280b413cdf5ac746f35/artifacts
+end_time: 1721605826162
+entry_point_name: ''
+experiment_id: '735336610594310444'
+lifecycle_stage: active
+run_id: d53b12e1ecde4280b413cdf5ac746f35
+run_name: LassoRegression
+run_uuid: d53b12e1ecde4280b413cdf5ac746f35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721605775759
+status: 3
+tags: []
+user_id: Emman

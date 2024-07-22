@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/735336610594310444/a3835f7a15ad47599abf95bb6e836789/artifacts
+end_time: 1721606948795
+entry_point_name: ''
+experiment_id: '735336610594310444'
+lifecycle_stage: active
+run_id: a3835f7a15ad47599abf95bb6e836789
+run_name: LassoRegression_with_Polynomial
+run_uuid: a3835f7a15ad47599abf95bb6e836789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721606936341
+status: 3
+tags: []
+user_id: Emman

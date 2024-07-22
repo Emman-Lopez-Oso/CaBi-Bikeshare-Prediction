@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/735336610594310444/cc08862e060149b58707e891746c2ad9/artifacts
+end_time: 1721606936335
+entry_point_name: ''
+experiment_id: '735336610594310444'
+lifecycle_stage: active
+run_id: cc08862e060149b58707e891746c2ad9
+run_name: RidgeRegression_with_Polynomial
+run_uuid: cc08862e060149b58707e891746c2ad9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721606885877
+status: 3
+tags: []
+user_id: Emman

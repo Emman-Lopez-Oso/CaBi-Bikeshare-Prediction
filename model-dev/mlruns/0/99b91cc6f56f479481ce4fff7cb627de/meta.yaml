@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/wd_black/projects/CaBi-Bikeshare-Prediction/model-dev/mlruns/0/99b91cc6f56f479481ce4fff7cb627de/artifacts
+end_time: 1721604913824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99b91cc6f56f479481ce4fff7cb627de
+run_name: LinearRegression
+run_uuid: 99b91cc6f56f479481ce4fff7cb627de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721604857373
+status: 4
+tags: []
+user_id: Emman
